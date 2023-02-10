@@ -10,5 +10,5 @@
 
 `UI Example`
 
-### Search
+### Search place
 <img src="/resource/25660210141435733.gif" style="height: 350px;"> 
