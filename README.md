@@ -1,7 +1,5 @@
 ## Flutter place
 
-เนื่องจากผมไม่ค่อยได้เขียน Flutter เพราะที่บริษัทและงานที่รับมาส่วนใหญ่เขียนเป็น React Native แต่ได้มีการซื้อ course ของ Flutter มาเรียนก่อนหน้านี้จาก Udemy จึงทำให้พอรู้การเขียน Flutter บางส่วน
-
 ### Dependencies
 
 | Name | Version|
